@@ -1,0 +1,26 @@
+Clojure is a functional programming language that can be used for various NLP (Natural Language Processing) tasks. The libraries in Clojure that support NLP include Incanter, which provides statistical analysis and data visualization, and clojure-opennlp, which is a wrapper for the Apache OpenNLP library.
+
+Clojure's functional programming approach and use of persistent data structures can make it well-suited for NLP tasks that involve processing large amounts of text data. Additionally, its integration with the Java ecosystem gives it access to a large number of NLP libraries written in Java, such as Stanford NLP and spaCy, which can be used to implement advanced NLP techniques.
+
+
+https://github.com/josephmisiti/awesome-machine-learning -> Let of R&D is being done.
+
+
+Let us HACK & ROCK the SHOW.
+
+
+We deal with Challenging aspects of Medical Image Processing/ e.g. MRI Scans using Clojure.
+
+
+JVM + IoT Computing Environments are highyl useful.
+
+
+ALL THE BEST.
+
+Dr.Nirmal - Senior Staff Scientist - antE Inst UTD Dallas TX USA.
+
+
+
+
+
+
